@@ -1,20 +1,19 @@
 ---
-title: "Xiang Guo"
-image: "xiang.jpg"
+title: "Maxine Schaefer"
+image: "maxine.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
+    url: "https://www.linkedin.com/in/maxine-schaefer/"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://twitter.com/MaxineNSchaefer"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/MaxineNSchaefer"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:mschaeferliteracy@gmail.com"
 output:
   postcards::jolla_blue
 ---
  
-Raised in New Jersey by two lawyers, I am now an aspiring data artist and 
-competitive rock climber. I moved to Seattle to fly floatplanes, but I got 
-caught up in the startup world. Send me a WhatsApp message if you have good 
-turnip prices.
+I am a researcher hoping to better understand how to support literacy acquisition and development. In my PhD, which is a longitudinal project, I examine phonological processing skills and how they support literacy in children's first and additional language. I have also worked on the Early Grade Reading Studies in South Africa.
+
+In these roles, I have developed my research and project management skills, and have also created language and literacy tests for under-researched languages such as isiXhosa and isiZulu. In the last year I have been working on developing my data wrangling and analysis skills in R, and have recently converted to an open science enthusiast. I also have experience as a lecturer at tertiary level.
